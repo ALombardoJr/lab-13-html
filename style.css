@@ -6,6 +6,9 @@ h1{
 	color: #00ff00;
 	background: #888888;
 	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border: 5px dashed red;
 }
 h2{
 	color: #00ff00;
